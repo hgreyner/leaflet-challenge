@@ -69,7 +69,7 @@ var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.pn
 
 // Define a baseMaps object to hold our base layers
 var baseMaps = {
-    "Street Map": streetmap,
+    "Light Map": streetmap,
     "Dark Map": darkmap
   };
 
